@@ -1,0 +1,11 @@
+* apt update
+* apt upgrade 
+* apt install mysql-server 
+* restart server  with command : /etc/init.d/mysql start
+* configure Mysql server with command mysql_secure_installation
+* Mysql user : root  password 1234qwer   
+* Login : mysql -u root -p 
+
+* apt install git 
+* apt install nodejs npm 
+
